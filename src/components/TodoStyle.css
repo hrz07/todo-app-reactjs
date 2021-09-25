@@ -1,0 +1,15 @@
+.todoStyle{
+    border-radius: 5px;  
+}
+/* .todoStyle h4{
+    display: inline-block;
+} */
+
+.todoStyle i {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    color: rgb(230, 4, 4);
+    cursor: pointer;
+}
+
