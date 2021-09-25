@@ -1,0 +1,9 @@
+.createSection{
+    /* background: rgb(253, 251, 251); */
+    background: rgb(163, 157, 157);
+}
+
+
+.inputSection input{
+    width: 280px;
+}
